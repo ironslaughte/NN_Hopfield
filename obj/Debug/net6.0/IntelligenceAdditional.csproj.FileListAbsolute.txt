@@ -1,0 +1,15 @@
+E:\Матрицы Димы\bin\Debug\net6.0\IntelligenceAdditional.exe
+E:\Матрицы Димы\bin\Debug\net6.0\IntelligenceAdditional.deps.json
+E:\Матрицы Димы\bin\Debug\net6.0\IntelligenceAdditional.runtimeconfig.json
+E:\Матрицы Димы\bin\Debug\net6.0\IntelligenceAdditional.dll
+E:\Матрицы Димы\bin\Debug\net6.0\IntelligenceAdditional.pdb
+E:\Матрицы Димы\obj\Debug\net6.0\IntelligenceAdditional.csproj.AssemblyReference.cache
+E:\Матрицы Димы\obj\Debug\net6.0\IntelligenceAdditional.GeneratedMSBuildEditorConfig.editorconfig
+E:\Матрицы Димы\obj\Debug\net6.0\IntelligenceAdditional.AssemblyInfoInputs.cache
+E:\Матрицы Димы\obj\Debug\net6.0\IntelligenceAdditional.AssemblyInfo.cs
+E:\Матрицы Димы\obj\Debug\net6.0\IntelligenceAdditional.csproj.CoreCompileInputs.cache
+E:\Матрицы Димы\obj\Debug\net6.0\IntelligenceAdditional.dll
+E:\Матрицы Димы\obj\Debug\net6.0\refint\IntelligenceAdditional.dll
+E:\Матрицы Димы\obj\Debug\net6.0\IntelligenceAdditional.pdb
+E:\Матрицы Димы\obj\Debug\net6.0\IntelligenceAdditional.genruntimeconfig.cache
+E:\Матрицы Димы\obj\Debug\net6.0\ref\IntelligenceAdditional.dll
